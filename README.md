@@ -4,7 +4,7 @@
 Perform exploratory data analysis on the California Housing dataset and understand the relationship between various housing features and median house value.
 
 ## Files
-- anal.ipynb
+- analysis.ipynb
 - housing.csv
 - summary.pdf
 - charts/
