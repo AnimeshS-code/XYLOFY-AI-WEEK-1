@@ -4,7 +4,7 @@
 Perform exploratory data analysis on the California Housing dataset and understand the relationship between various housing features and median house value.
 
 ## Files
-- housing_project.ipynb
+- anal.ipynb
 - housing.csv
 - summary.pdf
 - charts/
@@ -12,8 +12,8 @@ Perform exploratory data analysis on the California Housing dataset and understa
 ## Tasks Performed
 - Data loading and preprocessing
 - Exploratory Data Analysis (EDA)
+- Model Building
 - Visualization using Matplotlib/Seaborn
-- Correlation analysis
 - Summary report generation
 
 ## Tools Used
@@ -22,3 +22,4 @@ Perform exploratory data analysis on the California Housing dataset and understa
 - NumPy
 - Matplotlib
 - Seaborn
+- Sklearn
